@@ -1,0 +1,7 @@
+uploads
+server/dist
+server/node_modules
+server/.env
+worker/dist
+worker/node_modules
+worker/.env
